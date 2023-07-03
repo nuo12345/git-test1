@@ -3,3 +3,6 @@ hello git,hello java
 ----------master----------
 hello git,hello master
 hello git,hello master
+------feature-blue-------
+hello git,hello feature-blue
+hello git,hello feature-blue
